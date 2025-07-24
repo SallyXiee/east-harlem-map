@@ -1,0 +1,323 @@
+[
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.060456, 40.732488, 63.71937729805683]}, "properties": {"start": "2025-07-09T13:57:21.848-04:00", "end": "2025-07-09T13:59:20.286-04:00", "Who_are_you": "community_researcher", "Store_name": "Test", "Survey_date": "2025-07-09T13:57:00-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food fast_food cultural_cuisine culturally_specific_items holiday_decorations music___cds___art handmade_crafts", "What_kind_of_culturally_specific_items": "culturally_specific_snacks culturally_specific_crafts culturally_specific_household_goods culturally_specific_religious_items", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "Additional_notes_or_rds_music_displays": "Idk", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 513687504, "_uuid": "e01cc073-d09d-4acd-8911-adfbe3c9a398", "_submission_time": "2025-07-09T17:59:21", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 1}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939796, 40.798248, 6.941129010176507]}, "properties": {"start": "2025-07-10T14:06:10.031-04:00", "end": "2025-07-10T14:09:34.474-04:00", "Who_are_you": "community_researcher", "Store_name": "Food Market", "Survey_date": "2025-07-10T14:06:00-04:00", "Store_type": "other", "If_Other_please_specify": "Small food store, drinks, canned goods", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food snacks drinks daily_essentials culturally_specific_items", "What_kind_of_culturally_specific_items": "culturally_specific_snacks", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "not_sure", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "What_is_your_cultural_ethnic_background": "other", "_id": 514599587, "_uuid": "e1d4dad9-0250-436c-aedc-2b7c121dc4e1", "_submission_time": "2025-07-10T18:10:42", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 2}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.942218, 40.798763, 9.657763732597232]}, "properties": {"start": "2025-07-10T14:43:52.211-04:00", "end": "2025-07-10T14:46:25.783-04:00", "Who_are_you": "community_researcher", "Store_name": "Next Fragrance", "Survey_date": "2025-07-10T14:44:00-04:00", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "daily_essentials medicine religious_goods culturally_specific_items handmade_crafts", "What_kind_of_culturally_specific_items": "culturally_specific_crafts culturally_specific_household_goods culturally_specific_religious_items", "What_culture_is_this_tore_associated_with": "puerto_rican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 514621711, "_uuid": "070130e5-a00b-491c-92a2-d69cbc5abb07", "_submission_time": "2025-07-10T18:48:20", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 3}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.942215, 40.79885, 11.79855345790504]}, "properties": {"start": "2025-07-10T14:46:25.844-04:00", "end": "2025-07-10T14:50:33.203-04:00", "Who_are_you": "community_researcher", "Store_name": "Fly Wing Tech", "Survey_date": "2025-07-10T14:48:00-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "vehicle repair", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "english", "How_would_you_rate_this_store": "3.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 514622769, "_uuid": "b67f4ba7-c1af-4144-bf89-c4b047047bca", "_submission_time": "2025-07-10T18:50:33", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 4}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.942113, 40.798783, 21.07575378417969]}, "properties": {"start": "2025-07-10T14:50:33.249-04:00", "end": "2025-07-10T14:52:38.332-04:00", "Who_are_you": "community_researcher", "Store_name": "C.A. Nail Salon", "Survey_date": "2025-07-10T14:51:00-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "handmade_crafts", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 514623713, "_uuid": "f0c28ed1-66dd-47c8-ac46-ae8f614a4b34", "_submission_time": "2025-07-10T18:52:46", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 5}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.942012, 40.798697, 9.75050837546587]}, "properties": {"start": "2025-07-10T14:48:34.936-04:00", "end": "2025-07-10T15:00:51.906-04:00", "Who_are_you": "community_researcher", "Store_name": "tulcingo express inc gemininis flower", "Survey_date": "2025-07-10T14:49:00-04:00", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "handmade_crafts", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "What_is_your_cultural_ethnic_background": "mexican", "_id": 514628233, "_uuid": "bf23c226-1bcf-4d08-995e-6fbedc31122f", "_submission_time": "2025-07-10T19:01:01", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 6}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.937435, 40.796739, 0.0]}, "properties": {"start": "2025-07-15T10:33:25.398-04:00", "end": "2025-07-15T10:47:48.291-04:00", "Who_are_you": "community_researcher", "Store_name": "AROMA D' ANGEL", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "daily_essentials c religious_goods culturally_specific_items handmade_crafts", "What_kind_of_culturally_specific_items": "culturally_specific_crafts cultural_souvenirs", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "Additional_notes_or_rds_music_displays": "The owner owns a large portion of the back of the store in addition to the storefront, and he uses that space as a place to give free Muay Thai lessons to kids, and a Muay Thai champion (who also teaches over at Costco) comes in to give lessons to kids as well, and the lessons are free in order for the kids to defend themselves. The uncle would also give free water/drinks to the couriers. A lot of people who pass by the uncle's store will say hello to him. If there is a market event in la marqueta, the owner's wife will push her cart over to sell. The owner's children sometimes put their products outside, but the owner himself doesn't like it because he is responsible for the garbage, which is not generated by the owner, but thrown away by passers-by.", "How_would_you_rate_this_store": "5", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "nice community- based store\uff01", "_id": 517646038, "_uuid": "ed4e18ae-8c4f-4d2f-bfd7-d215fa8c09d9", "_submission_time": "2025-07-15T14:47:49", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 8}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.937306, 40.796908, 0.0]}, "properties": {"start": "2025-07-15T10:47:48.323-04:00", "end": "2025-07-15T10:51:46.028-04:00", "Who_are_you": "community_researcher", "Store_name": "Harlem Thrift Shop", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "not_sure", "What_kind_of_things_can_you_bu": "daily_essentials", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "not_sure", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517649601, "_uuid": "bfe85942-d426-4b57-b41e-461c1e2af81e", "_submission_time": "2025-07-15T14:51:46", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 9}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939767, 40.79766, 0.0]}, "properties": {"start": "2025-07-15T10:56:16.664-04:00", "end": "2025-07-15T11:00:54.931-04:00", "Who_are_you": "community_researcher", "Store_name": "The Hughes", "Survey_date": "2025-07-15T11:00:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "What_culture_is_this_tore_associated_with": "african", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "english", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517658133, "_uuid": "21592e27-b9a3-4666-8662-cc6a07214f32", "_submission_time": "2025-07-15T15:00:56", "_status": "submitted_via_web", "__version__": "vVp3qeHWqg83HkDsYVM47Y", "_index": 10}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939508, 40.797904, 0.0]}, "properties": {"start": "2025-07-15T11:01:02.829-04:00", "end": "2025-07-15T11:06:34.224-04:00", "Who_are_you": "community_researcher", "Store_name": "La Nacional", "Survey_date": "2025-07-15T11:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "money orders, international calls, remittance, ticket sales", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517663294, "_uuid": "9add3749-ec68-4340-b0b7-1686c8427902", "_submission_time": "2025-07-15T15:06:34", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 11}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.937356, 40.796943, 0.0]}, "properties": {"start": "2025-07-15T10:51:46.050-04:00", "end": "2025-07-15T11:10:37.060-04:00", "Store_name": "nails", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "daily_essentials", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517666631, "_uuid": "66208d1e-d263-412b-bff8-0818e2ebaa3b", "_submission_time": "2025-07-15T15:10:37", "_status": "submitted_via_web", "__version__": "vgbWrqvhWUKcpz5fnxvabA", "_index": 12}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939295, 40.797823, 0.0]}, "properties": {"start": "2025-07-15T11:06:40.855-04:00", "end": "2025-07-15T11:11:32.777-04:00", "Who_are_you": "community_researcher", "Store_name": "HOOKAH3 JO", "Survey_date": "2025-07-10T11:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "permanently_closed__vacant", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "hookah / shisha products, accessories", "What_culture_is_this_tore_associated_with": "african", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "english arabic", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517667205, "_uuid": "7e97a9d8-b345-4036-95e6-b2599b9e14a9", "_submission_time": "2025-07-15T15:11:32", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 13}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.937399, 40.796949, 0.0]}, "properties": {"start": "2025-07-15T11:11:22.841-04:00", "end": "2025-07-17T10:27:24.581-04:00", "Who_are_you": "community_researcher", "Store_name": "barbar unisex", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "daily_essentials", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "not_sure", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "Short wait times, friendly hairstylists, good prices. Very humble, working class clientele, good tunes on the speaker if you like bandas, rancheras, etc. Ok bye", "_id": 517668697, "_uuid": "89d79ffb-f650-4320-891e-f52580c5e77c", "_submission_time": "2025-07-15T15:12:51", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 14}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939166, 40.797766, 0.0]}, "properties": {"start": "2025-07-15T11:11:39.525-04:00", "end": "2025-07-17T10:26:46.580-04:00", "Who_are_you": "community_researcher", "Store_name": "El Milagro", "Survey_date": "2025-07-11T11:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "cultural_cuisine", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "It was cool for a presidents day. But not everyone is down with christian music. Especially for a Monday. Listen don't get me wrong the food was pretty good but not while someone is preaching in tongues catching the spirit.  I seen a lot of that growing up in a community that caught frequencies every so often. Not while having breakfast....allow me to wake up first.......", "_id": 517670235, "_uuid": "2f083da7-177b-45cf-898a-b4b2184a063f", "_submission_time": "2025-07-15T15:14:20", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 15}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938023, 40.796934, 0.0]}, "properties": {"start": "2025-07-15T11:12:50.957-04:00", "end": "2025-07-15T11:17:12.204-04:00", "Who_are_you": "community_researcher", "Store_name": "El Nuevo Caridad restaurant", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food", "What_culture_is_this_tore_associated_with": "dominican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517672488, "_uuid": "047dd259-ae61-4bd7-bb60-a4552602c238", "_submission_time": "2025-07-15T15:17:12", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 16}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939112, 40.797742, 0.0]}, "properties": {"start": "2025-07-15T11:14:19.976-04:00", "end": "2025-07-15T11:17:51.977-04:00", "Who_are_you": "community_researcher", "Store_name": "New TYS Laundromat", "Survey_date": "2025-07-15T11:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "large__30_70_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "laundry service", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517673084, "_uuid": "9c3e0144-f1b5-4035-ae2d-9f11a4330e92", "_submission_time": "2025-07-15T15:17:53", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 17}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.93793, 40.79721, 0.0]}, "properties": {"start": "2025-07-15T11:17:12.230-04:00", "end": "2025-07-15T11:20:15.014-04:00", "Who_are_you": "community_researcher", "Store_name": "Sandy Restaurant", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "temporarily_closed", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food", "What_culture_is_this_tore_associated_with": "puerto_rican dominican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517675203, "_uuid": "a314bfc6-fccc-4597-b286-f99cf7c6e277", "_submission_time": "2025-07-15T15:20:15", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 18}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.93908, 40.797709, 0.0]}, "properties": {"start": "2025-07-15T11:17:52.039-04:00", "end": "2025-07-15T11:22:20.490-04:00", "Who_are_you": "community_researcher", "Store_name": "Guerrerense Barber-Shop Unisex", "Survey_date": "2025-07-15T11:30:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "Haircut / barber services", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "3.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517676846, "_uuid": "0ed0fdf3-7d22-4810-ade6-a2b88835ae43", "_submission_time": "2025-07-15T15:22:20", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 19}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938389, 40.797105, 0.0]}, "properties": {"start": "2025-07-15T11:20:15.054-04:00", "end": "2025-07-15T11:24:36.078-04:00", "Store_name": "244 artesanias cooeeacron", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "culturally_specific_items", "What_kind_of_culturally_specific_items": "culturally_specific_crafts culturally_specific_household_goods cultural_souvenirs", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517678596, "_uuid": "5053ec69-7d99-4df0-a143-fbc9fd94fb39", "_submission_time": "2025-07-15T15:24:36", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 20}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939043, 40.797721, 0.0]}, "properties": {"start": "2025-07-15T11:22:20.522-04:00", "end": "2025-07-17T10:24:50.663-04:00", "Who_are_you": "community_researcher", "Store_name": "Hot Jalapeno", "Survey_date": "2025-07-15T11:30:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "cultural_cuisine", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "Great little Mexican place in East Harlem.  The happy hour has drinks discounted (from 4-7pm M-F I believe) and the drinks were very tasty.  We even came back the next night just for drinks.  The food and service was excellent.  The atmosphere was perfect and relaxing.  They do have a ramp over the entrance stairs.  I would highly recommend stopping by after work for some great food and tasty drinks.", "_id": 517679237, "_uuid": "1e9430fc-d049-4bf0-9827-ad55371ccaad", "_submission_time": "2025-07-15T15:25:43", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 21}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938535, 40.797186, 0.0]}, "properties": {"start": "2025-07-15T11:24:36.111-04:00", "end": "2025-07-15T23:11:57.043-04:00", "Who_are_you": "community_researcher", "Store_name": "El Pueblo Mexicano Grocery", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "fast_food ice_cream snacks drinks vegetables fresh_meat seafood daily_essentials", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 517968272, "_uuid": "1fcb3715-e85b-42d7-a491-e58f0d4fa615", "_submission_time": "2025-07-16T03:11:58", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 22}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938964, 40.797669, 0.0]}, "properties": {"start": "2025-07-16T19:11:49.687-04:00", "end": "2025-07-16T19:17:47.261-04:00", "Who_are_you": "community_researcher", "Store_name": "Peluqueria Alexa", "Survey_date": "2025-07-16T19:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "haircut", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 518752235, "_uuid": "22b7f40e-cf3b-43a1-924c-448747a9c28b", "_submission_time": "2025-07-16T23:17:47", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 23}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938781, 40.7976, 0.0]}, "properties": {"start": "2025-07-16T19:17:47.308-04:00", "end": "2025-07-17T10:22:36.286-04:00", "Who_are_you": "community_researcher", "Store_name": "Fine Food Cuisine", "Survey_date": "2025-07-16T19:30:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "large__30_70_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "prepared_food cultural_cuisine", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces often_participates_in_local_festivals_ev", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "I wanted to try here for a while because the food looked good, and the price looked decent. I was kind of disappointed that they did not serve any alcoholic drinks. When I saw that there were none on the menu, I should have known better. This was kind of big deal for the oth er people I was with,  pretty sure they would have like alcohol. The temperature of the bathroom and where I was sitting was also cold. Overall presentation of my meal was good but had no flavor. The nachos were good.", "_id": 518753557, "_uuid": "654774ed-3e75-494d-b841-816b67131b81", "_submission_time": "2025-07-16T23:25:54", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 24}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939617, 40.797591, 0.0]}, "properties": {"start": "2025-07-16T19:25:54.298-04:00", "end": "2025-07-17T00:47:41.928-04:00", "Who_are_you": "community_researcher", "Store_name": "Whizz E-Bikes Rental in Harlem", "Survey_date": "2025-07-17T00:45:00.000-04:00", "Store_type": "chain_store", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "E-Bikes Rental", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 518820355, "_uuid": "1a0d6c76-dd2b-4ba7-a488-9f8c99275233", "_submission_time": "2025-07-17T04:47:42", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 25}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939477, 40.797551, 0.0]}, "properties": {"start": "2025-07-17T00:47:41.969-04:00", "end": "2025-07-17T00:50:01.090-04:00", "Who_are_you": "community_researcher", "Store_name": "East End Pharmacy", "Survey_date": "2025-07-17T01:00:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "daily_essentials medicine", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 518821085, "_uuid": "233a31f3-c6b4-493a-9a28-4e7d16fef82e", "_submission_time": "2025-07-17T04:50:02", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 26}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939139, 40.797417, 0.0]}, "properties": {"start": "2025-07-17T00:50:01.125-04:00", "end": "2025-07-17T00:58:33.366-04:00", "Who_are_you": "community_researcher", "Store_name": "AZTECA", "Survey_date": "2025-07-17T01:00:00.000-04:00", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "no", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "c religious_goods culturally_specific_items holiday_decorations handmade_crafts", "What_kind_of_culturally_specific_items": "culturally_specific_snacks culturally_specific_crafts culturally_specific_religious_items cultural_souvenirs", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "3.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 518823588, "_uuid": "d53dd03c-f187-4bde-8b2c-465087ea17a3", "_submission_time": "2025-07-17T04:58:34", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 27}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.939091, 40.797384, 0.0]}, "properties": {"start": "2025-07-17T00:58:33.390-04:00", "end": "2025-07-17T01:03:55.067-04:00", "Who_are_you": "community_researcher", "Store_name": "MQ Barber Shop", "Survey_date": "2025-07-17T01:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "haircut", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "2.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 518826130, "_uuid": "31311f79-9865-4c5d-a7ab-03628a9df7fe", "_submission_time": "2025-07-17T05:03:55", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 28}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938957, 40.797323, 0.0]}, "properties": {"start": "2025-07-17T01:03:55.087-04:00", "end": "2025-07-17T01:09:24.125-04:00", "Who_are_you": "community_researcher", "Store_name": "Quesadillas Do\u00f1a Maty", "Survey_date": "2025-07-17T01:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "large__30_70_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "cultural_cuisine", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces often_participates_in_local_festivals_ev", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 518828115, "_uuid": "66ea702a-2058-4941-a91f-79f36045d7dd", "_submission_time": "2025-07-17T05:09:26", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 29}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938995, 40.797322, 0.0]}, "properties": {"start": "2025-07-17T09:17:19.354-04:00", "end": "2025-07-17T09:21:12.758-04:00", "Who_are_you": "community_researcher", "Store_name": "Don Alejo Coffee", "Survey_date": "2025-07-17T09:30:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "drinks", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519218660, "_uuid": "a89ec4a6-50ab-4992-a22d-e9e12cfbe8bd", "_submission_time": "2025-07-17T13:21:13", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 30}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938838, 40.797271, 0.0]}, "properties": {"start": "2025-07-17T09:21:12.796-04:00", "end": "2025-07-17T09:25:49.828-04:00", "Who_are_you": "community_researcher", "Store_name": "El Barrio Wireless New York Cell Phone Repair Shop", "Survey_date": "2025-07-17T09:30:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "permanently_closed__vacant", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "phone", "What_culture_is_this_tore_associated_with": "mexican puerto_rican dominican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519223108, "_uuid": "7241081a-f95f-4de7-88b7-d5824ae53cd8", "_submission_time": "2025-07-17T13:25:50", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 31}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938785, 40.797281, 0.0]}, "properties": {"start": "2025-07-17T09:25:49.853-04:00", "end": "2025-07-17T10:24:14.659-04:00", "Who_are_you": "community_researcher", "Store_name": "116 Flowers", "Survey_date": "2025-07-17T09:30:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "large__30_70_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "other", "If_Other_please_specify_001": "flowers", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces often_participates_in_local_festivals_ev", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4.5", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "Absolutely thrilled with my last-minute order! I requested a bouquet of blue roses on very short notice, and this shop  delivered. The bouquet was stunning, fresh, and beautifully arranged with so much care. It made the moment incredibly special. Thank you for going above and beyond! Highly recommend for anyone in need of gorgeous flowers, even in a pinch.", "_id": 519226419, "_uuid": "610a399a-2075-4b8b-aded-042d16937ac2", "_submission_time": "2025-07-17T13:29:47", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 32}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938707, 40.797206, 0.0]}, "properties": {"start": "2025-07-17T09:29:46.674-04:00", "end": "2025-07-17T09:36:19.171-04:00", "Who_are_you": "community_researcher", "Store_name": "Vaquero Deli Grocery", "Survey_date": "2025-07-17T09:30:00.000-04:00", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food ice_cream snacks drinks daily_essentials religious_goods culturally_specific_items", "What_kind_of_culturally_specific_items": "culturally_specific_snacks culturally_specific_crafts culturally_specific_religious_items", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "3.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519231759, "_uuid": "5a20a569-9e8b-44d0-9d3d-cd886ac0c693", "_submission_time": "2025-07-17T13:36:20", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 33}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938565, 40.79716, 0.0]}, "properties": {"start": "2025-07-17T09:36:19.234-04:00", "end": "2025-07-17T09:51:54.022-04:00", "Who_are_you": "community_researcher", "Store_name": "Changarrito Del Barrio", "Survey_date": "2025-07-17T10:00:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "drinks", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "mexican", "_id": 519244213, "_uuid": "560c164b-5db6-46a7-b40c-9d7ad47c1ecb", "_submission_time": "2025-07-17T13:51:54", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 34}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938081, 40.797352, 0.0]}, "properties": {"start": "2025-07-17T09:51:54.063-04:00", "end": "2025-07-17T10:02:03.513-04:00", "Who_are_you": "community_researcher", "Store_name": "San Agustin Corp", "Survey_date": "2025-07-17T10:00:00.000-04:00", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food drinks cultural_cuisine daily_essentials", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "operates_more_independently", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "2", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "As a Mexican, this place doesn\u2019t get my stamp of approval. The food gave me a headache (bad quality), lacked flavor, and the enchilada sauce wasn\u2019t strained so I pulled chunks of spices out. The bread was dry and wasn\u2019t even filled all the way. Also, we changed our mind within a couple of minutes of ordering tamales and ordered different entrees that were more expensive. Despite that, they refused to put the tamales back and made us pay. They only take cash.", "_id": 519254397, "_uuid": "469ae7f3-0913-4a46-9392-3b1bf289e142", "_submission_time": "2025-07-17T14:02:04", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 35}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938383, 40.797502, 0.0]}, "properties": {"start": "2025-07-17T10:02:03.550-04:00", "end": "2025-07-17T10:17:02.113-04:00", "Who_are_you": "community_researcher", "Store_name": "Nocciola Ristorante", "Survey_date": "2025-07-16T10:15:00.000-04:00", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "large__30_70_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food cultural_cuisine", "What_culture_is_this_tore_associated_with": "italian", "How_would_you_descri_ith_the_neighborhood": "locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "english", "How_would_you_rate_this_store": "4.5", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "East Harlem isn't really known for Italian food, and that's why Nocciola is a hidden gem in this neighborhood, and never disappoints. The service is really friendly and attentive. Lily and Antonio are always welcoming. My favorite appetizers are the burrata and the crispy calamari, but you can't go wrong when ordering a pizza. In entrees the chicken parm is a great portion, the carbonara is super creamy, and my friend loves how fluffy the gnocchi is. You have to save room for dessert and order the tiramisu or the panna cotta. Overall a comforting place, friendly service, fresh and affordable food. One of my favorite places in East Harlem.", "_id": 519269210, "_uuid": "f6b2e00b-bbbf-4476-9fc9-0fbc27e63f90", "_submission_time": "2025-07-17T14:17:03", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 36}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.938648, 40.797567, 0.0]}, "properties": {"start": "2025-07-17T10:17:02.157-04:00", "end": "2025-07-17T10:21:14.701-04:00", "Who_are_you": "community_researcher", "Store_name": "El Sabor Mexicano", "Survey_date": "2025-07-17T10:30:00.000-04:00", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "cultural_cuisine", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces often_participates_in_local_festivals_ev", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4.5", "What_is_your_cultural_ethnic_background": "chinese", "Comments": "The service was pretty fast depending on how many people are getting dine in or take out and has a nice atmosphere with some great food", "_id": 519272952, "_uuid": "51d7a7e2-0dca-44c1-b4ad-7c3e0ead55c2", "_submission_time": "2025-07-17T14:21:16", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 37}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.941947, 40.798335, 0.0]}, "properties": {"start": "2025-07-15T23:11:57.075-04:00", "end": "2025-07-17T10:40:52.650-04:00", "Who_are_you": "community_researcher", "Store_name": "El Barrio Music Center", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "snacks drinks daily_essentials c religious_goods music___cds___art", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519288193, "_uuid": "4d2ecb60-9e95-4d83-a2a1-38f9fd90a50c", "_submission_time": "2025-07-17T14:40:53", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 38}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.940886, 40.799152, 0.0]}, "properties": {"start": "2025-07-17T10:40:52.691-04:00", "end": "2025-07-17T10:43:13.020-04:00", "Who_are_you": "community_researcher", "Store_name": "Super Nice Coffee and Bakery", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "drinks", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "often_participates_in_local_festivals_ev operates_more_independently", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "3.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519289955, "_uuid": "31afb0e9-1f47-459a-b38a-36f295153ebe", "_submission_time": "2025-07-17T14:43:13", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 39}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.940102, 40.800452, 0.0]}, "properties": {"start": "2025-07-17T10:43:13.050-04:00", "end": "2025-07-17T10:45:48.782-04:00", "Who_are_you": "community_researcher", "Store_name": "Serie 56 Deli Grocery INC.", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food fast_food ice_cream snacks drinks daily_essentials culturally_specific_items holiday_decorations", "What_kind_of_culturally_specific_items": "culturally_specific_household_goods", "What_culture_is_this_tore_associated_with": "mexican puerto_rican dominican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519291912, "_uuid": "4c0a102d-8518-4112-903d-4e5d8e4933a0", "_submission_time": "2025-07-17T14:45:49", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 40}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.940438, 40.800147, 0.0]}, "properties": {"start": "2025-07-17T10:45:48.800-04:00", "end": "2025-07-17T10:48:27.966-04:00", "Who_are_you": "community_researcher", "Store_name": "Sofia's Nail Salon", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "c", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "not_sure", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519294557, "_uuid": "5e37f8d9-2e17-45a6-b09f-8b9ddc1fdd85", "_submission_time": "2025-07-17T14:48:28", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 41}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.937914, 40.796631, 0.0]}, "properties": {"start": "2025-07-17T10:48:27.983-04:00", "end": "2025-07-17T10:51:18.190-04:00", "Who_are_you": "community_researcher", "Store_name": "Eagle Tile", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "prepared_food ice_cream snacks drinks daily_essentials", "What_culture_is_this_tore_associated_with": "dominican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "yes", "What_languages_do_the_store_ow": "spanish", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519296958, "_uuid": "6d02bf39-b8b5-4ba5-8d04-904ee0beae39", "_submission_time": "2025-07-17T14:51:18", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 42}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.937869, 40.796678, 0.0]}, "properties": {"start": "2025-07-17T10:51:18.211-04:00", "end": "2025-07-17T10:52:26.034-04:00", "Who_are_you": "community_researcher", "Store_name": "Elite Barber Shop", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "small__0_10_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "daily_essentials c", "What_culture_is_this_tore_associated_with": "mexican", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community locally_known_and_run_by_familiar_faces", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519297924, "_uuid": "a5c87510-b5ff-40ea-969f-adb01c0aede9", "_submission_time": "2025-07-17T14:52:26", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 43}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.93773396248683, 40.796679659486216, 0.0]}, "properties": {"start": "2025-07-17T10:52:26.055-04:00", "end": "2025-07-17T10:54:18.928-04:00", "Who_are_you": "community_researcher", "Store_name": "Uptown Care Pharmacy", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "no", "What_kind_of_things_can_you_bu": "medicine", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "4", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519299271, "_uuid": "0e16e68a-ff3f-4b1c-b114-68f243b3bb51", "_submission_time": "2025-07-17T14:54:19", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 44}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.93774852748898, 40.7962480637718, 0.0]}, "properties": {"start": "2025-07-17T10:54:18.947-04:00", "end": "2025-07-17T10:56:41.900-04:00", "Who_are_you": "community_researcher", "Store_name": "Xing Dragon", "Store_type": "home_based_micro_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "medium__10_30_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "cultural_cuisine", "What_culture_is_this_tore_associated_with": "chinese", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "english mandarin_chinese", "How_would_you_rate_this_store": "3", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519301186, "_uuid": "9515aa06-f123-4595-9a0b-eda1cf10d434", "_submission_time": "2025-07-17T14:56:42", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 45}}
+]
+},
+{
+"type": "FeatureCollection",
+"name": "116 stores",
+"features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.93762366748336, 40.79619765108657, 0.0]}, "properties": {"start": "2025-07-17T10:56:41.930-04:00", "end": "2025-07-17T10:58:16.901-04:00", "Who_are_you": "community_researcher", "Store_name": "Cherry Valley Marketplace", "Store_type": "community_based_small_business", "Is_the_store_listed_on_Google_Maps": "yes", "Current_status_of_the_store": "operating_normally", "Store_size": "extra_large__over_70_sqm", "Does_the_store_offer_ly_specific_products": "yes", "What_kind_of_things_can_you_bu": "fast_food ice_cream snacks drinks vegetables fresh_meat seafood daily_essentials medicine", "What_culture_is_this_tore_associated_with": "not_specific", "How_would_you_descri_ith_the_neighborhood": "actively_involved_in_the_community", "Does_this_store_regu_or_community_events": "no", "What_languages_do_the_store_ow": "spanish english", "How_would_you_rate_this_store": "3.5", "What_is_your_cultural_ethnic_background": "chinese", "_id": 519302778, "_uuid": "37a62d12-e47a-4667-8815-cde46b516db2", "_submission_time": "2025-07-17T14:58:17", "_status": "submitted_via_web", "__version__": "v3VDmm5CYXskasUnoch9hk", "_index": 46}}
+]
+}
+]

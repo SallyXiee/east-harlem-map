@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome to My Bodega</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f5ebf1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .main-container {
+      display: flex;
+      max-width: 1300px;
+      width: 100%;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .main-window {
+      flex: 1;
+      background: #fff;
+      margin-left: 30px;
+      margin-right: 20px;
+      padding: 30px;
+      box-sizing: border-box;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .speech-bubble {
+      font-family: cursive;
+      font-size: 26px;
+      color: black;
+      background: #fff;
+      border: 3px solid red;
+      border-radius: 20px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .order-sketch-row {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 40px;
+      margin-bottom: 30px;
+    }
+
+    .order-items {
+      display: grid;
+      grid-template-columns: repeat(3, 120px);
+      gap: 24px;
+      justify-content: center;
+    }
+
+    .order-items img {
+      width: 100%;
+      border-radius: 8px;
+      transition: transform 0.3s ease;
+      cursor: pointer;
+    }
+
+    .order-items img:hover {
+      transform: scale(1.2);
+    }
+
+    .sketch-image {
+      width: 300px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
+
+    .button-row {
+      display: flex;
+      gap: 20px;
+      margin-top: 10px;
+    }
+
+    .order-btn,
+    .back-btn {
+      font-size: 16px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .order-btn {
+      background: red;
+      color: white;
+    }
+
+    .back-btn {
+      background: black;
+      color: white;
+    }
+
+    .side-panel {
+      width: 400px;
+      background: #fff;
+      padding: 30px;
+      box-sizing: border-box;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      max-height: 90vh;
+      overflow-y: auto;
+      margin-right: 30px;
+    }
+
+    .side-panel h2 {
+      font-size: 22px;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .side-panel h2 img {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+    }
+
+    .side-panel p {
+      font-size: 16px;
+    }
+
+    .comment-section {
+      margin-top: 30px;
+    }
+
+    .comment-preview {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 20px;
+    }
+
+    .comment-preview img {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      margin-right: 12px;
+    }
+
+    .comment-preview .bubble {
+      background: #f0f0f0;
+      padding: 10px 14px;
+      border-radius: 14px;
+      font-size: 15px;
+      max-width: 80%;
+    }
+
+    .comment-box {
+      margin-top: 10px;
+    }
+
+    .comment-box input {
+      padding: 8px;
+      width: 90%;
+      font-size: 14px;
+    }
+
+    .comment-box button {
+      padding: 8px 12px;
+      margin-top: 10px;
+      font-size: 14px;
+      background-color: black;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="main-container">
+    <div class="main-window">
+      <div class="speech-bubble">WELCOME TO MY BODEGA!</div>
+      <div class="order-sketch-row">
+        <div class="order-items">
+          <img src="images/chips.png" alt="chips">
+          <img src="images/driedmeat.png" alt="meat">
+          <img src="images/tortilla.png" alt="tortilla">
+          <img src="images/peppers.png" alt="peppers">
+          <img src="images/soda.png" alt="soda">
+          <img src="images/yuca.png" alt="yuca">
+          <img src="images/plantains.png" alt="plantains">
+          <img src="images/pork.png" alt="pork">
+        </div>
+        <img src="images/sketch.png" alt="Store Sketch" class="sketch-image">
+      </div>
+      <div class="button-row">
+        <button class="back-btn" onclick="window.location.href='index.html'">Back to Main Page</button>
+        <button class="order-btn" onclick="window.location.href='form.html'">Contribute / Order Now</button>
+      </div>
+    </div>
+
+    <div class="side-panel">
+      <div>
+        <h2><img src="images/eric.png" alt="Eric"> Hi, my name is Eric.</h2>
+        <p>My little store has free martial arts classes for kids on the weekends. Come by and play!</p>
+        <p><strong>Hours:</strong> 10 a.m. to 6 p.m.</p>
+        <p><strong>Cooking Class:</strong> Every Friday evening</p>
+      </div>
+
+      <div class="comment-section">
+        <div class="comment-preview">
+          <img src="images/avatar1.png" alt="avatar">
+          <div class="bubble">This place has the best plantains in the neighborhood!</div>
+        </div>
+        <div class="comment-preview">
+          <img src="images/avatar2.png" alt="avatar">
+          <div class="bubble">My kids love the free martial arts class. Thank you Eric!</div>
+        </div>
+        <div class="comment-preview">
+          <img src="images/avatar3.png" alt="avatar">
+          <div class="bubble">I come here every Friday for the cooking session. Great vibes!</div>
+        </div>
+
+        <div class="comment-box">
+          <input type="text" placeholder="Your comment here...">
+          <button>Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

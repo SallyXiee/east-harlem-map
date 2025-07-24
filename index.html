@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MapLibre Template</title>
+  <!-- Load MapLibre GL JS -->
+  <link href="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js"></script>
+
+<!-- Elegant Serif Font -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet" />
+
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<button id="back-to-intro-btn" class="hidden">Back to Intro</button>
+
+<body>
+<!-- Intro Page -->
+<div id="intro-screen">
+  <div class="intro-page" id="intro-page-1">
+    <h1>What’s Missing from the Map?</h1>
+    <p>
+      Google Maps shows us ratings, categories, and photos—but it misses the quiet lifelines of our communities.<br/><br/>
+      Many small businesses in East Harlem don’t show up on Google. Not because they don’t matter, but because they operate through trust, not clicks.
+    </p>
+    <button class="next-btn" data-next="2">Next</button>
+  </div>
+
+  <div class="intro-page hidden" id="intro-page-2">
+    <h1>The Acquaintance Economy</h1>
+    <p>
+      These micro-businesses—often immigrant-run—anchor everyday life: feeding neighbours, mentoring youth, and holding cultural space.<br/><br/>
+      Yet few of them are reviewed, mapped, or seen in platform economies. Their power lies in being known, not rated.
+    </p>
+    <button class="prev-btn" data-prev="1">Previous</button>
+    <button class="next-btn" data-next="3">Next</button>
+  </div>
+
+  <div class="intro-page hidden" id="intro-page-3">
+    <h1>Building Our Own Platform</h1>
+    <p>
+      We used KoboToolbox to document what Google missed. Residents helped record cultural goods, languages, and informal services they care about.<br/><br/>
+      This map is a prototype—an evolving space that communities can grow, annotate, and update themselves.
+    </p>
+    <button class="prev-btn" data-prev="2">Previous</button>
+    <button class="next-btn" data-next="4">Next</button>
+  </div>
+
+  <div class="intro-page hidden" id="intro-page-4">
+    <h1>Online-Offline Interactive System</h1>
+    <p>
+      Each store is a modular unit co-designed with its owner—allowing for DIY cultural expression.<br/><br/>
+      Once assembled, the store’s appearance and products are instantly updated to the website, where residents can interact directly with store owners.<br/><br/>
+      From browsing goods to checking activities or placing orders, the platform turns street presence into shared visibility and collective growth.
+    </p>
+    <button class="prev-btn" data-prev="3">Previous</button>
+    <button id="enter-btn">Enter</button>
+  </div>
+
+  
+</div>
+
+
+
+  <!-- Title -->
+  <div id="map-title">Community Micro Business Map</div>
+
+  <!-- Map container -->
+  <div id="map"></div>
+  
+  <!-- Info panel -->
+  <div id="info-panel" class="hidden">
+    <button id="close-panel">×</button>
+    <div id="info-content"></div>
+  </div>
+
+  <button id="contribute-btn">Explore My Bodega!</button><br/>
+
+  
+  <!-- Legend with layer toggles -->
+  <div id="legend">
+    <h3>Layers</h3>
+    <label><input type="checkbox" id="retail-toggle" checked /> Google Maps Info</label><br />
+    <label><input type="checkbox" id="yes-toggle" checked /> Acquaintance Economy - Listed in Google Maps </label><br />
+    <label><input type="checkbox" id="no-toggle" checked /> Acquaintance Economy - Not listed on Google Maps </label><br />
+    <label><input type="checkbox" id="sketch-toggle" checked /> Typical prototypes in East Harlem</label><br />
+    <button id="mindmap-btn">Project Workflow</button>
+  </div>
+
+  <!-- JS logic -->
+  <script src="script.js"></script>
+</body>
+</html>

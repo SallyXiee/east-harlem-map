@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.938400, 40.797123]
+      },
+      "properties": {
+        "store_name": "244 Artesanias Conceacion",
+        "cultural_identity": "Mexican",
+        "products_sold": "Cultural crafts, snacks, piñatas",
+        "image": "mexican_retail.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.938156, 40.797032]
+      },
+      "properties": {
+        "store_name": "El Nuevo Caridad",
+        "cultural_identity": "Dominican",
+        "products_sold": "Dominican cuisine, BBQ, drink",
+        "image": "Dominican_RE.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.935490, 40.795677]
+      },
+      "properties": {
+        "store_name": "Raices Dominicana Cigar",
+        "cultural_identity": "Dominican",
+        "products_sold": "cigar",
+        "image": "Dominican_cigar.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94095014059008, 40.79851353148544]
+      },
+      "properties": {
+        "store_name": "Green Olive Deli",
+        "cultural_identity": "Mexican",
+        "products_sold": "prepared food, snacks, ice cream",
+        "image": "mexican_deli.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93863463157832, 40.797195737599514]
+      },
+      "properties": {
+        "store_name": "Vaquero Deli Grocery",
+        "cultural_identity": "Mexican",
+        "products_sold": "snacks, beverage, candy",
+        "image": "mexican_deligrocery.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93853089143835, 40.797155256096886]
+      },
+      "properties": {
+        "store_name": "El Pueblo Mexicano Grocery",
+        "cultural_identity": "Mexican",
+        "products_sold": "snacks, beverage, candy, prepared food, daily necessaries, piñatas, religious products",
+        "image": "mexican_market.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93900155052575, 40.79734986708874]
+      },
+      "properties": {
+        "store_name": "Quesadillas Doña Maty",
+        "cultural_identity": "Mexican",
+        "products_sold": "mexican cuisine",
+        "image": "mexican_Re.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.939418, 40.799360]
+      },
+      "properties": {
+        "store_name": "Axel Grocery",
+        "cultural_identity": "Puerto Rican",
+        "products_sold": "snacks, beverage, candy",
+        "image": "puertorican_bodega.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.938720, 40.797522]
+      },
+      "properties": {
+        "store_name": "Sabor Mexicano Restaurant",
+        "cultural_identity": "Puerto Rican",
+        "products_sold": "snacks, beverage, prepared food, Puerto Rican cuisine",
+        "image": "puertorican_familyre.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94099520018067, 40.79818921621461]
+      },
+      "properties": {
+        "store_name": "Cuchifritos",
+        "cultural_identity": "Puerto Rican",
+        "products_sold": "fried food, Puerto Rican cuisine",
+        "image": "puertorican_RE.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94206464254134, 40.798629703765954]
+      },
+      "properties": {
+        "store_name": "Tulcingo Express Inc",
+        "cultural_identity": "Mexican",
+        "products_sold": "flower, regilious prodects, mexican crafts",
+        "image": "flowerstore.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93744639314897, 40.796671678459205]
+      },
+      "properties": {
+        "store_name": "AROMA D' ANGEL",
+        "cultural_identity": "Mexican",
+        "products_sold": "flower, regilious prodects, mexican crafts, mexican clothes, decoration, accessories, bags, toy",
+        "image": "Mexican_judo.jpg"
+      }
+    }
+  ]
+}
