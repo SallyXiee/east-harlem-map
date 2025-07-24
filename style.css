@@ -227,3 +227,72 @@ body, html {
 #mindmap-btn:hover {
   background-color: #333;
 }
+
+
+/* 设置整体内容区域为横向排布，左文右图 */
+.intro-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;                  /* 文字和图像之间的间距 */
+  max-width: 1200px;          /* 整体内容宽度限制 */
+  margin: 0 auto;
+  padding: 40px 20px;
+  flex-wrap: wrap;            /* 屏幕变窄时自动换行 */
+}
+
+/* 设置文字区域 */
+.intro-text {
+  flex: 1;
+  max-width: 600px;
+  text-align: left;           /* 改为左对齐更适合多段落展示 */
+}
+
+/* 设置文字段落样式 */
+.intro-text p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* 设置图像区域 */
+.intro-image {
+  flex: 1;
+  max-width: 380px;
+  margin: 0 auto;         /* ✅ 居中对齐 */
+  text-align: center;     /* ✅ 图片也能居中 */
+}
+
+.intro-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;         /* ✅ 防止 inline 空隙 */
+  margin: 0 auto;         /* ✅ 确保 block 元素水平居中 */
+}
+
+.intro-page {
+  opacity: 1;
+  transition: opacity 0.6s ease;
+}
+
+.intro-page.fade-out {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.intro-page.fade-in {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.intro-text h1 {
+  font-size: 26px; /* 原来是 32px，改小一点 */
+  margin-bottom: 20px;
+}
+
+.intro-page p {
+  font-size: 16px; /* 原为18px，可改为16或15 */
+  line-height: 1.6;
+}

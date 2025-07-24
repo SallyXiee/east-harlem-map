@@ -1,9 +1,11 @@
 const map = new maplibregl.Map({
-    container: 'map',
-    style: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json', // vector tile basemap
-    center: [-73.936, 40.799], // East Harlem
-    zoom: 15
-  });
+  container: 'map',
+  style: 'https://api.maptiler.com/maps/01983c6d-7a23-7a72-8b4f-5aae9d26cc1c/style.json?key=FDwoj5uLdw8eV9kSBSjz',
+  center: [-73.939, 40.798],
+  zoom: 16.2
+});
+
+
   
   map.addControl(new maplibregl.NavigationControl(), 'top-right');
   
@@ -363,3 +365,11 @@ document.getElementById('mindmap-btn').addEventListener('click', () => {
 
 });
   
+window.addEventListener('DOMContentLoaded', () => {
+  if (window.location.hash === '#map') {
+    document.getElementById('intro-screen').style.display = 'none';
+    document.getElementById('map').style.display = 'block';
+    document.getElementById('back-to-intro-btn').classList.remove('hidden');
+  }
+});
+

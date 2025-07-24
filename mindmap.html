@@ -1,26 +1,68 @@
-<!-- mindmap.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Project Narrative Mindmap</title>
+  <title>Project Mindmap</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       margin: 0;
-      background: #fff;
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+    }
+
+    #home-button {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 100;
+      padding: 10px 16px;
+      font-size: 14px;
+      background-color: white;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: pointer;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      transition: background-color 0.2s ease;
+    }
+
+    #home-button:hover {
+      background-color: #f0f0f0;
+    }
+
+    .mindmap-container {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
+      padding: 60px 20px 20px;
+      box-sizing: border-box;
     }
-    img {
-      max-width: 90%;
-      max-height: 90%;
-      box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+
+    .mindmap-container img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      background: white;
     }
   </style>
 </head>
 <body>
-  <img src="images/mindmap.png" alt="Project Mindmap" />
+
+  <button id="home-button">← Back to Main Map</button>
+
+  <div class="mindmap-container">
+    <img src="images/mindmap.png" alt="Project Mindmap">
+  </div>
+
+<script>
+  document.getElementById('home-button').addEventListener('click', () => {
+    window.location.href = 'index.html#map';
+  });
+</script>
+
+
 </body>
 </html>
